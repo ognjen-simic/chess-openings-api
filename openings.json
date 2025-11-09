@@ -3,180 +3,180 @@
     "id": 1,
     "name": "Ruy Lopez",
     "eco": "C60",
-    "firstMove": ["e4", "e5"],
+    "firstMove": "e4",
     "moves": ["e4", "e5", "Nf3", "Nc6", "Bb5"],
     "type": "Open Game",
-    "picture": "pictures/ruylopez.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/ruylopez.png"
   },
   {
     "id": 2,
     "name": "Italian Game",
     "eco": "C50",
-    "firstMove": ["e4", "e5"],
+    "firstMove": "e4",
     "moves": ["e4", "e5", "Nf3", "Nc6", "Bc4"],
     "type": "Open Game",
-    "picture": "pictures/italian.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/italian.png"
   },
   {
     "id": 3,
     "name": "Scotch Game",
     "eco": "C44",
-    "firstMove": ["e4", "e5"],
+    "firstMove": "e4",
     "moves": ["e4", "e5", "Nf3", "Nc6", "d4"],
     "type": "Open Game",
-    "picture": "pictures/scotch.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/scotch.png"
   },
   {
     "id": 4,
     "name": "Sicilian Defense",
     "eco": "B20",
-    "firstMove": ["e4", "c5"],
+    "firstMove": "e4",
     "moves": ["e4", "c5"],
     "type": "Semi-Open Game",
-    "picture": "pictures/sicilian.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/sicilian.png"
   },
   {
     "id": 5,
     "name": "French Defense",
     "eco": "C00",
-    "firstMove": ["e4", "e6"],
+    "firstMove": "e4",
     "moves": ["e4", "e6", "d4", "d5"],
     "type": "Semi-Open Game",
-    "picture": "pictures/french.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/french.png"
   },
   {
     "id": 6,
     "name": "Caro-Kann Defense",
     "eco": "B10",
-    "firstMove": ["e4", "c6"],
+    "firstMove": "e4",
     "moves": ["e4", "c6", "d4", "d5"],
     "type": "Semi-Open Game",
-    "picture": "pictures/carokann.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/carokann.png"
   },
   {
     "id": 7,
     "name": "Pirc Defense",
     "eco": "B07",
-    "firstMove": ["e4", "d6"],
+    "firstMove": "e4",
     "moves": ["e4", "d6", "d4", "Nf6"],
     "type": "Semi-Open Game",
-    "picture": "pictures/pirc.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/pirc.png"
   },
   {
     "id": 8,
     "name": "Modern Defense",
     "eco": "B06",
-    "firstMove": ["e4", "g6"],
+    "firstMove": "e4",
     "moves": ["e4", "g6", "d4", "Bg7"],
     "type": "Semi-Open Game",
-    "picture": "pictures/moderndef.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/moderndef.png"
   },
   {
     "id": 9,
     "name": "Alekhine Defense",
     "eco": "B02",
-    "firstMove": ["e4", "Nf6"],
+    "firstMove": "e4",
     "moves": ["e4", "Nf6", "e5", "Nd5", "Nf3", "d6", "d4"],
     "type": "Semi-Open Game",
-    "picture": "pictures/alekhine.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/alekhine.png"
   },
   {
     "id": 10,
     "name": "King's Gambit",
     "eco": "C30",
-    "firstMove": ["e4", "e5"],
+    "firstMove": "e4",
     "moves": ["e4", "e5", "f4"],
     "type": "Open Game",
-    "picture": "pictures/kingsgambit.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/kingsgambit.png"
   },
   {
     "id": 11,
     "name": "Queen's Gambit",
     "eco": "D06",
-    "firstMove": ["d4", "d5"],
+    "firstMove": "d4",
     "moves": ["d4", "d5", "c4"],
     "type": "Closed Game",
-    "picture": "pictures/queensgambit.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/queensgambit.png"
   },
   {
     "id": 12,
     "name": "Slav Defense",
     "eco": "D10",
-    "firstMove": ["d4", "d5"],
+    "firstMove": "d4",
     "moves": ["d4", "d5", "c4", "c6"],
     "type": "Closed Game",
-    "picture": "pictures/slavdef.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/slavdef.png"
   },
   {
     "id": 13,
     "name": "King's Indian Defense",
     "eco": "E60",
-    "firstMove": ["d4", "Nf6"],
+    "firstMove": "d4",
     "moves": ["d4", "Nf6", "c4", "g6"],
     "type": "Indian Defense",
-    "picture": "pictures/kingsindian.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/kingsindian.png"
   },
   {
     "id": 14,
     "name": "Nimzo-Indian Defense",
     "eco": "E20",
-    "firstMove": ["d4", "Nf6"],
+    "firstMove": "d4",
     "moves": ["d4", "Nf6", "c4", "e6", "Nc3", "Bb4"],
     "type": "Indian Defense",
-    "picture": "pictures/nimzoindian.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/nimzoindian.png"
   },
   {
     "id": 15,
     "name": "Queen's Indian Defense",
     "eco": "E12",
-    "firstMove": ["d4", "Nf6"],
+    "firstMove": "d4",
     "moves": ["d4", "Nf6", "c4", "e6", "Nf3", "b6"],
     "type": "Indian Defense",
-    "picture": "pictures/queensindian.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/queensindian.png"
   },
   {
     "id": 16,
     "name": "Grünfeld Defense",
     "eco": "D70",
-    "firstMove": ["d4", "Nf6"],
+    "firstMove": "d4",
     "moves": ["d4", "Nf6", "c4", "g6", "Nc3", "d5"],
     "type": "Indian Defense",
-    "picture": "pictures/grunfelddef.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/grunfelddef.png"
   },
   {
     "id": 17,
     "name": "English Opening",
     "eco": "A10",
-    "firstMove": ["c4", "Nf6"],
+    "firstMove": "c4",
     "moves": ["c4", "Nf6", "Nc3", "d5"],
     "type": "Flank Opening",
-    "picture": "pictures/english.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/english.png"
   },
   {
     "id": 18,
     "name": "Réti Opening",
     "eco": "A04",
-    "firstMove": ["Nf3"],
+    "firstMove": "Nf3",
     "moves": ["Nf3", "d5", "c4"],
     "type": "Flank Opening",
-    "picture": "pictures/retidef.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/retidef.png"
   },
   {
     "id": 19,
     "name": "Benoni Defense",
     "eco": "A56",
-    "firstMove": ["d4", "c5"],
+    "firstMove": "d4",
     "moves": ["d4", "c5", "d5"],
     "type": "Indian Defense",
-    "picture": "pictures/benoni.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/benoni.png"
   },
   {
     "id": 20,
     "name": "Dutch Defense",
     "eco": "A80",
-    "firstMove": ["d4", "f5"],
+    "firstMove": "d4",
     "moves": ["d4", "f5", "c4", "Nf6"],
     "type": "Closed Game",
-    "picture": "pictures/dutch.png"
+    "picture": "https://raw.githubusercontent.com/ognjen-simic/chess-openings-api/main/pictures/dutch.png"
   }
 ]
