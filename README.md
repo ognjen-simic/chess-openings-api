@@ -1,7 +1,7 @@
 # Chess Openings API
 
-An API currently containing **20 different chess openings**, which i will use for my other
-project - **Chess Opening Browser**.
+An API currently containing **20 different chess openings** and is used in my other
+project - [Chess Opening Browser](https://github.com/ognjen-simic/chess-openings-browser).
 
 Every opening has the following information:
 
